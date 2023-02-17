@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on BANILIY</title>
-    <link>https://nunocoracao.github.io/blowfish/series/</link>
+    <link>https://baniliy.github.io/series/</link>
     <description>Recent content in Series on BANILIY</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 19 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://nunocoracao.github.io/blowfish/series/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 19 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://baniliy.github.io/series/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Documentation</title>
-      <link>https://nunocoracao.github.io/blowfish/series/documentation/</link>
+      <link>https://baniliy.github.io/series/documentation/</link>
       <pubDate>Wed, 19 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://nunocoracao.github.io/blowfish/series/documentation/</guid>
+      <guid>https://baniliy.github.io/series/documentation/</guid>
       <description></description>
     </item>
     

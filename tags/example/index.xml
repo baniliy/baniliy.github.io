@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>example on BANILIY</title>
-    <link>https://nunocoracao.github.io/blowfish/tags/example/</link>
+    <link>https://baniliy.github.io/tags/example/</link>
     <description>Recent content in example on BANILIY</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 09 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://nunocoracao.github.io/blowfish/tags/example/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 09 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://baniliy.github.io/tags/example/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Content Examples</title>
-      <link>https://nunocoracao.github.io/blowfish/docs/content-examples/</link>
+      <link>https://baniliy.github.io/docs/content-examples/</link>
       <pubDate>Sun, 09 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://nunocoracao.github.io/blowfish/docs/content-examples/</guid>
+      <guid>https://baniliy.github.io/docs/content-examples/</guid>
       <description>If you&amp;rsquo;ve been reading the documentation in order, you should now know about all the features and configurations available in Blowfish. This page is designed to pull everything together and offer some worked examples that you might like to use in your Hugo project.</description>
     </item>
     
