@@ -6,15 +6,29 @@
     <description>Recent content in Welcome to Baniliy! :tada: on BANILIY</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 17 Feb 2023 20:31:47 +0800</lastBuildDate><atom:link href="https://baniliy.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 22 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://baniliy.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>rasterio使用</title>
+      <link>https://baniliy.github.io/python/rasterio/</link>
+      <pubDate>Wed, 22 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://baniliy.github.io/python/rasterio/</guid>
+      <description>rasterio使用&gt;rasterio使用 # 参考
+python栅格数据处理学习记录二之rasterio基础 - 知乎
+python：使用机器学习算法对卫星遥感影像进行分类 - 简书
+使用Rasterio读取栅格数据的实例讲解-面圈网
+1、安装&gt;1、安装 # conda install -c conda-forge rasterio conda install -c conda-forge matplotlib rasterio可以读取ENVI标准格式、tif格式等栅格数据
+2、波段计算&gt;2、波段计算 # import rasterio from rasterio.</description>
+      
+    </item>
+    
     <item>
       <title>Conda配置</title>
       <link>https://baniliy.github.io/python/conda/</link>
       <pubDate>Fri, 17 Feb 2023 20:31:47 +0800</pubDate>
       
       <guid>https://baniliy.github.io/python/conda/</guid>
-      <description>Simple, yet powerful. Learn how to use Blowfish and its features.This section contains everything you need to know about Blowfish. If you&amp;rsquo;re new, check out the
-&gt;# 常用命令&gt;常用命令 # # 查看安装过的包 conda list # 查看存在的虚拟环境 conda env list # 检查更新 conda update conda # 创建虚拟环境 conda create -n your_env_name python=x.</description>
+      <description>常用命令&gt;常用命令 # # 查看安装过的包 conda list # 查看存在的虚拟环境 conda env list # 检查更新 conda update conda # 创建虚拟环境 conda create -n your_env_name python=x.x # 激活或者切换虚拟环境 activate your_env_name # Windows # 对虚拟环境中安装额外的包 conda install -n your_env_name [package] # 关闭虚拟环境(即从当前环境退出返回使用PATH环境中的默认python版本) deactivate env_name # activate root`切回root环境 # 删除虚拟环境 conda remove -n your_env_name --all # 删除环境中的某个包 conda remove --name $your_env_name $package_name jupyter notebook保存文件默认路径更改&gt;jupyter notebook保存文件默认路径更改 # 1.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://baniliy.github.io/python/conda/feature.jpg" />
     </item>
     
